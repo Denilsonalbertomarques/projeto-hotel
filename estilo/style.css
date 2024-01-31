@@ -25,6 +25,7 @@ header {
     min-height: 150px;
     background-image: linear-gradient(to bottom, var(--cor04), var(--cor01));
     padding: 20px;
+    max-width: 1350px;
 }
 
 header h1 {
@@ -122,6 +123,7 @@ article p {
 
 footer {
     background-color: var(--cor04);
+    max-width: 1350px;
 }
 
 footer p {
