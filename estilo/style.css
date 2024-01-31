@@ -38,6 +38,7 @@ nav {
     background-color: var(--cor01);
     padding: 30px;
     box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.341);
+    max-width: 1350px;
 }
 
 nav a {
