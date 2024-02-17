@@ -17,6 +17,7 @@
     padding: 0px;
 }
 
+
 body {
     background-image:linear-gradient(to bottom, lightgray, transparent) ;
 }
@@ -37,8 +38,8 @@ header h1 {
 nav {
     background-color: var(--cor01);
     padding: 30px;
-    box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.341);
-    max-width: 2000px;
+    box-shadow: 2px 2px 2px 0px rgba(0, 0, 0, 0.341)
+    
 }
 
 nav a {
@@ -76,6 +77,7 @@ main > p {
     font-family: var(--fonte-paragrafo);
     text-align: justify;
     line-height: 2em;
+    font-size: 1.4em;
 }
 
 article {
@@ -124,10 +126,11 @@ article p {
 
 footer {
     background-color: var(--cor04);
+    padding: 4px;
+    font-family: var(--fonte-paragrafo);
 }
 
 footer p {
-    font-size: 0.9em;
     color: white;
     text-align: center;
 }
