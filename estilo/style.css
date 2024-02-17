@@ -48,6 +48,7 @@ nav a {
     text-decoration: none;
     border-radius: 5px;
     transition-duration: 0.7s;
+    font-family: var(--fonte-paragrafo);
 }
 
 nav a:hover {
