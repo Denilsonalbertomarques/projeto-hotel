@@ -23,23 +23,22 @@ body {
 }
 
 header {
-    min-height: 150px;
     background-image: linear-gradient(to bottom, var(--cor04), var(--cor01));
     padding: 20px;
-    max-width: 2000px;
 }
 
 header h1 {
     color: white;
     font-size: 1.9em;
     font-family: var(--fonte-titulo);
+    padding-bottom: 50px;
 }
 
 nav {
     background-color: var(--cor01);
     padding: 30px;
-    box-shadow: 2px 2px 2px 0px rgba(0, 0, 0, 0.341)
-    
+    box-shadow: 2px 2px 2px 0px rgba(0, 0, 0, 0.341);
+    padding-bottom: 50px;
 }
 
 nav a {
